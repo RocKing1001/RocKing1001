@@ -40,7 +40,7 @@
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RocKing1001&count_private=true&show_icons=true&hide_border=true" /><img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true " />
 
 
-[website]: https://forbiddencraft.xyz/
+[website]: https://kdandekar.xyz/
 [twitter]: https://twitter.com/KunalADandekar
 [youtube]: https://www.youtube.com/channel/UCFhBqHPR3EjbaLWp5iMIXcA?view_as=subscriber
 [instagram]: https://www.instagram.com/kunal_dandekar_no1/
