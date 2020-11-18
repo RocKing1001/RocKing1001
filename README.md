@@ -37,6 +37,7 @@
 
 #### My Github Stats, good eh?
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RocKing1001&count_private=true&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocKing1001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://forbiddencraft.xyz/
 [twitter]: https://twitter.com/KunalADandekar
