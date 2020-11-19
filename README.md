@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RocKing1001&count_private=true&show_icons=true&hide_border=true" /><img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true " />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RocKing1001&count_private=true&show_icons=true&hide_border=true" /><img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocKing1001&layout=compact&hide_border=true " />
 
 
 [website]: https://kdandekar.xyz/
