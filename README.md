@@ -1,7 +1,7 @@
 
 # Hey there, ThePiGuy here
 
-[![Website](https://img.shields.io/website?label=kdandekar.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website] [![Twitter Follow](https://img.shields.io/twitter/follow/KunalADandekar?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+[![Website](https://img.shields.io/website?label=kdandekar.xyz&style=for-the-badge&url=https%3A%2F%2Fkdandekar.xyz)][website] [![Twitter Follow](https://img.shields.io/twitter/follow/KunalADandekar?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## I'm a fullstack developer with no social life!! And a game dev
 - 👀 Still on the path from game dev to fullstack
